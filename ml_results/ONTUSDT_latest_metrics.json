@@ -1,6 +1,6 @@
 {
     "best_hyperparameters": {
-        "n_estimators": 434,
-        "learning_rate": 0.06897450755635247
+        "n_estimators": 425,
+        "learning_rate": 0.03807006266115612
     }
 }
