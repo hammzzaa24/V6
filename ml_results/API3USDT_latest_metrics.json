@@ -1,0 +1,8 @@
+{
+    "best_hyperparameters": {
+        "n_estimators": 465,
+        "learning_rate": 0.08254014664561674,
+        "num_leaves": 38,
+        "max_depth": 9
+    }
+}
